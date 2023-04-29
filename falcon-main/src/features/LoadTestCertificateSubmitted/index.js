@@ -1,0 +1,2 @@
+import LoadTestCertificateSubmitted from './LoadTestCertificateSubmitted';
+export default LoadTestCertificateSubmitted;

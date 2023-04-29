@@ -1,0 +1,48 @@
+{
+    "project_info": {
+      "project_number": "340559531303",
+      "firebase_url": "https://falcon-cranes-notifications.firebaseio.com",
+      "project_id": "falcon-cranes-notifications",
+      "storage_bucket": "falcon-cranes-notifications.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:340559531303:android:df872fa079973f20d72d02",
+          "android_client_info": {
+            "package_name": "com.falconcranes.app"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "340559531303-aia86d8kg6taffvoto1bt93q4gn6dp8f.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDSgrJnX6YDJzpCFgXRFjgW-STbQzaAkyk"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "340559531303-aia86d8kg6taffvoto1bt93q4gn6dp8f.apps.googleusercontent.com",
+                "client_type": 3
+              },
+              {
+                "client_id": "340559531303-6rigv05dnafa3enncc3us0b130fe2t2m.apps.googleusercontent.com",
+                "client_type": 2,
+                "ios_info": {
+                  "bundle_id": "com.falconcranes.app",
+                  "app_store_id": "1484944971"
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

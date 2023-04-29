@@ -1,0 +1,2 @@
+import WorkInstructionsCreateNewForm from './WorkInstructionsCreateNewForm';
+export default WorkInstructionsCreateNewForm;
